@@ -2,7 +2,7 @@
 
 App en HTML la cual contiene, "Nombre y Apellido", "DNI" y la leyenda “Examen Final”.
 
-## 🚀 Ejecución local
-Abrir `index.html` en cualquier navegador.
+##  Ejecucion
+Abrir index.html en cualquier navegador.
 
-## 🐳 Ejecución con Docker
+## Ejecucion con Docker
